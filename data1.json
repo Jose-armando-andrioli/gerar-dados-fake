@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Linda Roberson",
+        "address": "9198 Miller Lodge\nSouth Meganchester, SC 81346",
+        "email": "lisareeves@example.net",
+        "phone_number": "603.871.9764",
+        "job": "Sales professional, IT",
+        "age": 37,
+        "company": "Young, Taylor and Olson",
+        "credit_card_number": "4253651092086807435",
+        "date_joined": "2022-05-02"
+    }
+]
